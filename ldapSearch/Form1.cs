@@ -18,7 +18,7 @@ namespace ldapSearch
         {
             InitializeComponent();
             comboBox1.SelectedIndex = 0;
-            toolStripStatusLabel1.Text = "Ready";
+            toolStripStatusLabel1.Text = "Ready For Query";
         }
 
         private void label1_Click(object sender, EventArgs e)
